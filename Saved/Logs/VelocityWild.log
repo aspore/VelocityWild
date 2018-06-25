@@ -619,3 +619,4 @@ LogInit: Object subsystem initialized
 [2018.06.25-22.43.02:033][221]LogSavePackage: Save=23.59ms
 [2018.06.25-22.43.02:033][221]LogSavePackage: Moving 'C:/Users/chima/OneDrive/Desktop/RACINGGAME/VelocityWild/Saved/lambert2SG1833771664DD24823FCF267BB19758689.tmp' to 'C:/Users/chima/OneDrive/Desktop/RACINGGAME/VelocityWild/Content/Vehicle/Racer/lambert2SG1.uasset'
 [2018.06.25-22.43.02:037][221]LogSavePackage: Display: Finished SavePackage C:/Users/chima/OneDrive/Desktop/RACINGGAME/VelocityWild/Content/Vehicle/Racer/lambert2SG1.uasset
+[2018.06.25-22.48.33:567][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
